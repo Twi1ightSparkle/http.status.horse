@@ -6,10 +6,10 @@ import styles from './GithubButton.module.css'
 const GithubButton = ({ width, height}) => (
   <div className={styles.container}>
     <a
-      href="https://github.com/httpcats/http.cat"
+      href="https://github.com/Twi1ightSparkle/http.status.horse"
       target="_blank"
       rel="noopener noreferrer"
-      title="http.cat github repository"
+      title="http.status.horse github repository"
     >
       <img
         src={githubIcon}
