@@ -1,5 +1,3 @@
-#  http.cat [![Build Status](https://travis-ci.com/httpcats/http.cat.svg?branch=master)](https://travis-ci.com/httpcats/http.cat)
-
 ![HTTP Horse picture](https://http.status.horse/204)
 
 ## About
