@@ -11,7 +11,7 @@ const Usage = () => (
       <b>{getString('USAGE_NOTE_LABEL')}:</b> {getString('USAGE_NOTE_TEXT')} <code>.jpg</code>.
     </p>
     <p>
-      There will be &#x1F434; here soon&#8482;
+      There will be <span role="img" aria-label="Horse head emoji">&#x1F434;</span> here soon <span role="img" aria-label="Trademark symbol">&#8482;</span>
     </p>
   </div>
 )
