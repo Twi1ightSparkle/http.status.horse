@@ -1,17 +1,13 @@
 import React from 'react'
 
-import FacebookButton from '../FacebookButton'
 import GithubButton from '../GithubButton'
-import TwitterButton from '../TwitterButton'
 import getString from '../../lib/strings'
 import styles from './Footer.module.css'
 
 const Footer = () => (
   <div className={styles.container}>
     <div className={styles.social}>
-      <FacebookButton />
       <GithubButton />
-      <TwitterButton />
     </div>
 
     <nav>
