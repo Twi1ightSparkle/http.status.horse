@@ -1,12 +1,10 @@
 #  http.cat [![Build Status](https://travis-ci.com/httpcats/http.cat.svg?branch=master)](https://travis-ci.com/httpcats/http.cat)
 
-![HTTP Cat picture](https://http.cat/204)
+![HTTP Horse picture](https://http.status.horse/204)
 
 ## About
 
-This is the website that is hosted at [https://http.cat](https://http.cat).
-
-The code for the older version hosted at the heroku platform is at the [http-status-cats-api](https://github.com/rogeriopvl/http-status-cats-api) repo.
+This is the website that is hosted at [https://http.status.horse](https://http.status.horse).
 
 This version does not need any server side code. The API behavior is provided by a Nginx server config.
 
