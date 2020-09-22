@@ -24,6 +24,13 @@ Runs the tests.
 
 Creates a build of the project.
 
+## Nginx config
+```
+        location ~ /(\d+)(\.jpg)? {
+                try_files $uri /images/$1.jpg;
+        }
+```
+
 ## Credits
 
 Thanks to @girliemac for creating the amazing http status cats images.
