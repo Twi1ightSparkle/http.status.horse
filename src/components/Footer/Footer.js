@@ -10,10 +10,6 @@ const Footer = () => (
       <GithubButton />
     </div>
 
-    <nav>
-      <a href="/?lang=cat">{getString('LANGUAGE_LINK_TEXT')}</a>
-    </nav>
-
     <p>{getString('DEVELOPED_BY')} <a href="https://twitter.com/rogeriopvl">@rogeriopvl</a></p>
     <p>{getString('IMAGES_BY')} Tomomi Imura (<a href="https://twitter.com/girlie_mac">@girlie_mac</a>)</p>
   </div>

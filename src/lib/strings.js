@@ -8,18 +8,6 @@ export const strings = {
     LANGUAGE_LINK_TEXT: 'Versió Català',
     DEVELOPED_BY: 'Developed by',
     IMAGES_BY: 'Images by'
-  },
-
-  cat: {
-    APP_TITLE: 'HTTP Gats',
-    USAGE_TITLE: 'Instruccions',
-    USAGE_PARAM: 'codi_d_estat',
-    USAGE_NOTE_LABEL: 'Nota',
-    USAGE_NOTE_TEXT:
-      'Si necessiteu una extensió al final de l’URL només heu d’afegir',
-    LANGUAGE_LINK_TEXT: 'Versió Català',
-    DEVELOPED_BY: 'Desenvolupat per',
-    IMAGES_BY: 'Imatges de'
   }
 }
 
