@@ -1,6 +1,6 @@
 export const strings = {
   en: {
-    APP_TITLE: 'HTTP Cats',
+    APP_TITLE: 'HTTP Horses',
     USAGE_TITLE: 'Usage',
     USAGE_PARAM: 'status_code',
     USAGE_NOTE_LABEL: 'Note',
